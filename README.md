@@ -1,0 +1,1 @@
+# xampp-add-host.php
