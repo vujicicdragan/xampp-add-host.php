@@ -91,4 +91,4 @@ License
 This project is licensed under the MIT License.
 
 Author
-Dragan Vujicic - vujicicdragan
+Dragan Gagi Vujicic
